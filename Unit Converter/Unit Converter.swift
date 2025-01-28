@@ -1,6 +1,6 @@
 //
-//  Project_2App.swift
-//  Project 2
+//  Unit_ConverterApp.swift
+//  Unit Converter
 //
 //  Created by Aisosa Obasohan on 17/01/2025.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Project_2App: App {
+struct UnitConverter: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
