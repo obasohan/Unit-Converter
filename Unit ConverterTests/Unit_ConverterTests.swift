@@ -6,7 +6,7 @@
 //
 
 import Testing
-@testable import Project_2
+@testable import Unit_Converter
 
 struct Project_2Tests {
 
