@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Project 2
+//  Unit Converter
 //
 //  Created by Aisosa Obasohan on 17/01/2025.
 //
